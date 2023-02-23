@@ -8,8 +8,8 @@ With the regular LSTM, we can make input flow in one direction, either backwards
 
 # Example
 
-I love Apple.Beacuse it's sweet.
-I love Apple. Beacuse their product quality was good.
+1.I love Apple.Beacuse it's sweet.
+2.I love Apple. Beacuse their product quality was good.
 
 By observing these two sentences, we can't say whether the apple is fruit or company name.
 But if we observe the sentence from backwards, we can easily say to which category it belongs.That's why we use Bi-LSTM Model.
