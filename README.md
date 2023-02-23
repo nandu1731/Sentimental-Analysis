@@ -8,7 +8,7 @@ With the regular LSTM, we can make input flow in one direction, either backwards
 
 # Example
 
-1.I love Apple.Beacuse it's sweet.
+1.I love Apple.Beacuse it's sweet.<br />
 2.I love Apple. Beacuse their product quality was good.
 
 By observing these two sentences, we can't say whether the apple is fruit or company name.
